@@ -1,4 +1,4 @@
-#include <max6675.h>    //theroelement library
+#include <max6675.h>    //thermoelement library
 #include <Streaming.h>    //streaming library
 
 long startingTime;    //needed for timecounter
